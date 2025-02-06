@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\obj\Debug\Project_Booking.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\obj\Debug\Project_Booking.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\bin\Debug\Project_Booking.exe.config
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\bin\Debug\Project_Booking.exe
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\bin\Debug\Project_Booking.pdb
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\obj\Debug\Project_Booking.exe
+C:\Users\pedro\source\repos\Project_Booking\Project_Booking\obj\Debug\Project_Booking.pdb
